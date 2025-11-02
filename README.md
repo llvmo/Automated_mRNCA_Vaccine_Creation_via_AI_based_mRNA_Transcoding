@@ -6,3 +6,4 @@ For the use of manufacturing products, or technologies that utilize this concept
 in part, full, or similar are not permitted. The use for creation of branded technologies, accessories,
 or the like with exception to planned obsolescence are permitted. 
 
+<img src="https://github.com/JustAnotherStableToken/Automated_mRNCA_Vaccine_Creation_via_AI_based_mRNA_Transcoding/blob/main/Automated_mRNA_Vaccine_Transcoder_Model.png?raw=true" />
